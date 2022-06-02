@@ -1,0 +1,1 @@
+const mainSheet = SpreadsheetApp.getActiveSpreadsheet();
